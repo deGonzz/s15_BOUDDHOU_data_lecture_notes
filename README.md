@@ -31,7 +31,9 @@ Columnar
 
 ### Data Lifecycle
 Collection \ 
-            Clean Up -> Storage <- -> Processing Analysis -> Query + Visualize + Act  ALL THIS LEADS TO QUESTIONS
+            Clean Up -> Storage <- -> Processing 
+                        Analysis -> Query + Visualize + Act  
+                                    ALL THIS LEADS TO QUESTIONS
 Generation /
 
 #### Question
@@ -39,4 +41,6 @@ Curation (prioritization of data source, which one gives most value?) \
                                                                         
 Triage (prioritization of a situation)                                /
 Paklrgfiygrci
+
+### on Thursday: http requests (GET, POST, PUT, DELETE) - response cycles.
 
