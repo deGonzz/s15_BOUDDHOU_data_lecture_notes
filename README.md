@@ -64,6 +64,13 @@ script tags
 
 ###REST (Representation-State-Transfer)
 Envision the world to find rssources. We want to separate out the ressources and the different representations that it can take on
-See URI resources
+See URI resources (describe class and links larger than URL and are  abit more generic)
 See CRUD (Create-Read-Update-Delete)
 
+###Requests: on "/users"
+GET: Give me a representation of all users. Or we can put an ID right next to it to get a specific user: "/users/id"
+POST: Create a new user {data}
+PUT: Update user
+DELETE: Destroy a user
+
+###Stepping through an example
