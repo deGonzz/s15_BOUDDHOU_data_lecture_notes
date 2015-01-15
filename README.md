@@ -55,4 +55,15 @@ https://github.com/cu-data-engineering-s15/syllabus/wiki/Homeworks
 https://github.com/taylordusting/s15_Taylor_markdown
 It was preeeetty informative!
 
+### RESTful terms
+handler
+request-response
+index.html --> file on the srver disk
+<img src=' '> --> link to another web addresss to load images
+script tags
+
+###REST (Representation-State-Transfer)
+Envision the world to find rssources. We want to separate out the ressources and the different representations that it can take on
+See URI resources
+See CRUD (Create-Read-Update-Delete)
 
