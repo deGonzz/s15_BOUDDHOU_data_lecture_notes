@@ -74,3 +74,21 @@ PUT: Update user
 DELETE: Destroy a user
 
 ###Stepping through an example
+See the Sinatra gem in the Ruby space
+Also use the json gem
+use curl http://localhost:3000/whattimeisit  to get a response (en l'occurence, the inside of the get converted into Json)
+
+```ruby
+require 'sinatra'
+require 'sinatra/reloader' if development
+require 'json'
+
+
+configure do
+	set :port, 3000
+end
+
+get '/api/1.0/whattimeisit' do
+	{ status: true, message: Time.now }.to_json + "n\""
+end
+```
