@@ -92,3 +92,5 @@ get '/api/1.0/whattimeisit' do
 	{ status: true, message: Time.now }.to_json + "n\""
 end
 ```
+
+Check: https://github.com/cu-data-engineering-s15/contacts
