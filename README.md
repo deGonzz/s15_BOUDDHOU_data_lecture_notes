@@ -93,4 +93,5 @@ get '/api/1.0/whattimeisit' do
 end
 ```
 
-Check: https://github.com/cu-data-engineering-s15/contacts
+Check: https://github.com/cu-data-engineering-s15/contacts for next lecture implementation
+Figure out: database? id? input? output? errors?
