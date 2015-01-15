@@ -44,3 +44,15 @@ Paklrgfiygrci
 
 ### on Thursday: http requests (GET, POST, PUT, DELETE) - response cycles.
 
+## Lecture 2
+
+###Go to the wiki pages: 
+https://github.com/cu-data-engineering-s15/syllabus/wiki/Test-Page
+https://github.com/cu-data-engineering-s15/syllabus/wiki/Useful-Links
+https://github.com/cu-data-engineering-s15/syllabus/wiki/Homeworks
+
+###Presentation on Markdown form Taylor at this link:
+https://github.com/taylordusting/s15_Taylor_markdown
+It was preeeetty informative!
+
+
