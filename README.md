@@ -95,3 +95,74 @@ end
 
 Check: https://github.com/cu-data-engineering-s15/contacts for next lecture implementation
 Figure out: database? id? input? output? errors?
+
+
+## Lecture 3
+
+###RESTFUL WEB SERVICES
+REST is an architecturqal style for web services
+An approach to developing web services that mimic the design of the world wide web
+
+###REST OPERATIONS
+For each resource you can typically perform at least one of the folllowign CRUD (Create, read, Update Delete) opertaions:
+####
+POST
+GET 
+PUT
+DELETE
+
+###EXAMPLES (1)
+''' 
+GET /api/1.0/users
+'''
+Retrieve a list of all users
+
+'''
+GET /api/1.0/users/0
+'''
+Retrieve the details of User 0
+
+'''
+POST /api/1.0/users
+'''
+Create a new user
+
+##EXAMPLES (2)
+
+'''
+PUT /api/1.0/users/0
+'''
+Update user 0
+
+'''
+DELETE /api/1.0/users/0
+'''
+Delete user 0
+
+'''
+GET /api/1.0/search?q=tattersail
+'''
+Perform search with the query *tattersail*
+
+###DISCUSSION (1)
+####Each operation may produce a result:
+With RESTful services, JSON format is king
+####POST and PUT methods typically send data
+Also in JSON format
+May be in URL or int he body of the HTTP Request (eg for GET, the data may apear as query params)
+###Other formats are possible: HTML and XML are typical
+###If a request needs to be authenticated
+The authentication data appears in HTTP headers
+
+###DISCUSSION (2)
+How do you think operations on two resources are handled?
+####ONE APPROACH
+'''
+GET /api/1.0/posts/0/comments/1
+'''
+Get the first comment on post 10
+
+'''
+POST /api/1.0/posts/0/comments
+'''
+Create aew comment on post 0
