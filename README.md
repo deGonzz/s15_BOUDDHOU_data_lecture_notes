@@ -112,36 +112,36 @@ PUT
 DELETE
 
 ###EXAMPLES (1)
-''' 
+```
 GET /api/1.0/users
-'''
+```
 Retrieve a list of all users
 
-'''
+```
 GET /api/1.0/users/0
-'''
+```
 Retrieve the details of User 0
 
-'''
+```
 POST /api/1.0/users
-'''
+```
 Create a new user
 
 ##EXAMPLES (2)
 
-'''
+```
 PUT /api/1.0/users/0
-'''
+```
 Update user 0
 
-'''
+```
 DELETE /api/1.0/users/0
-'''
+```
 Delete user 0
 
-'''
+```
 GET /api/1.0/search?q=tattersail
-'''
+```
 Perform search with the query *tattersail*
 
 ###DISCUSSION (1)
@@ -157,12 +157,22 @@ The authentication data appears in HTTP headers
 ###DISCUSSION (2)
 How do you think operations on two resources are handled?
 ####ONE APPROACH
-'''
+```
 GET /api/1.0/posts/0/comments/1
-'''
+```
 Get the first comment on post 10
 
-'''
+```
 POST /api/1.0/posts/0/comments
-'''
+```
 Create aew comment on post 0
+
+###ISSUES
+####Security: how do youdeal with authencticate users?
+####Identity: how are ids assigned to resources?
+####Failure: how do we handle failure situations?
+	In the example today, I handle itin the JSON
+	I could have used HTTP Status Codes (404, 500, etc.)
+	Most services will use a combination of both
+####Persistency: how are resources stored?
+		
