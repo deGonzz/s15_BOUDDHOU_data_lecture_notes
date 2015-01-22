@@ -180,6 +180,6 @@ Create aew comment on post 0
 
 ###Presentation on Git
 ###Presentation on Github via @zandrr
-
+For next Lecture, make sure we have curl installed on our machine for the live challenge!!
 
 
