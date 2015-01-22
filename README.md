@@ -176,3 +176,10 @@ Create aew comment on post 0
 	Most services will use a combination of both
 ####Persistency: how are resources stored?
 		
+## Lecture 4
+
+###Presentation on Git
+###Presentation on Github via @zandrr
+
+
+
