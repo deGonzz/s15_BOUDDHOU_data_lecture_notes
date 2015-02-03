@@ -185,5 +185,8 @@ For next Lecture, make sure we have curl installed on our machine for the live c
 ## Lecture 5
 ###Presentation on Node.js by Ken
 
-## Lecture 5
-###Presentation on Express Ken
+## Lecture 6
+###Presentation on Express by Ken
+
+## Lecture 7
+###Presentation on Angular.js by Ken
