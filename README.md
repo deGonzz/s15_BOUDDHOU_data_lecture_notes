@@ -197,3 +197,8 @@ For next Lecture, make sure we have curl installed on our machine for the live c
 ## Lecture 9
 ###Presentation on getting data from Twitter by Ken
 Going over this page on Angular: https://gist.github.com/kenbod/be0c9ce0a79bcd342465
+Recommended reading: *The Principles of Object-Oriented JavaScript*, *Secrets of the JavaScript Ninja*
+Link1: http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf
+Link2: http://it-ebooks.info/book/4449/
+
+###Contacts Web App: https://github.com/cu-data-engineering-s15/contacts_web_app
