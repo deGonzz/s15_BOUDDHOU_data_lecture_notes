@@ -190,3 +190,9 @@ For next Lecture, make sure we have curl installed on our machine for the live c
 
 ## Lecture 7
 ###Presentation on Angular.js by Ken
+
+## Lecture 8
+###More on Angular.js by Ken
+
+## Lecture 9
+###Presentation on getting data from Twitter by Ken
