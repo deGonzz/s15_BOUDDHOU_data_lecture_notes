@@ -196,3 +196,4 @@ For next Lecture, make sure we have curl installed on our machine for the live c
 
 ## Lecture 9
 ###Presentation on getting data from Twitter by Ken
+Going over this page on Angular: https://gist.github.com/kenbod/be0c9ce0a79bcd342465
