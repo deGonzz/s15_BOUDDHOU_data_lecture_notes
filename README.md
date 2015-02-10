@@ -202,3 +202,8 @@ Link1: http://netcraft.co.il/fedia/books/SecretsoftheJavaScriptNinja.pdf
 Link2: http://it-ebooks.info/book/4449/
 
 ###Contacts Web App: https://github.com/cu-data-engineering-s15/contacts_web_app
+###For the Twitter API:
+Go to: https://dev.twitter.com/
+Start a "Ken's Test App" Twitter app at: https://apps.twitter.com/app/7906727/keys
+Check out the documentation's REST API: https://dev.twitter.com/rest/public
+Check out the documentation's Streaming API: https://dev.twitter.com/streaming/overview
