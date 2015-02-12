@@ -207,3 +207,6 @@ Go to: https://dev.twitter.com/
 Start a "Ken's Test App" Twitter app at: https://apps.twitter.com/app/7906727/keys
 Check out the documentation's REST API: https://dev.twitter.com/rest/public
 Check out the documentation's Streaming API: https://dev.twitter.com/streaming/overview
+
+## Lecture 10 
+### Getting Data from Twitter Take Two
