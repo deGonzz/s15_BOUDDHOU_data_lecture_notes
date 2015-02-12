@@ -210,3 +210,5 @@ Check out the documentation's Streaming API: https://dev.twitter.com/streaming/o
 
 ## Lecture 10 
 ### Getting Data from Twitter Take Two
+Open: file:///Users/Louis/Documents/SCHOOL/DATAENG/lecture_10-gh-pages/index.html
+CHeck out: https://stedolan.github.io/jq/  that pretty prints JSON
