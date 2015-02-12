@@ -211,4 +211,6 @@ Check out the documentation's Streaming API: https://dev.twitter.com/streaming/o
 ## Lecture 10 
 ### Getting Data from Twitter Take Two
 Open: file:///Users/Louis/Documents/SCHOOL/DATAENG/lecture_10-gh-pages/index.html
-CHeck out: https://stedolan.github.io/jq/  that pretty prints JSON
+Check out: https://stedolan.github.io/jq/  that pretty prints JSON
+Check out: https://dev.twitter.com/rest/public/timelines
+Check out: https://github.com/cu-data-engineering-s15/syllabus/wiki/Topics  to find a topic to present for the class
