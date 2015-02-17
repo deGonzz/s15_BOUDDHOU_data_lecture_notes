@@ -214,3 +214,6 @@ Open: file:///Users/Louis/Documents/SCHOOL/DATAENG/lecture_10-gh-pages/index.htm
 Check out: https://stedolan.github.io/jq/  that pretty prints JSON
 Check out: https://dev.twitter.com/rest/public/timelines
 Check out: https://github.com/cu-data-engineering-s15/syllabus/wiki/Topics  to find a topic to present for the class
+
+## Lecture 11
+### Twitter Data Collection Framework
