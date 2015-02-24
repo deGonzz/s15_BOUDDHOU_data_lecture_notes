@@ -223,3 +223,25 @@ Check out: https://github.com/cu-data-engineering-s15/syllabus/wiki/Topics  to f
 
 ## Lecture 13
 ### CouchDB by Ken
+####CAP Theorem: pick any two
+Consistency
+Availability
+Partition Tolerance
+####CouchDB chooses Avalability and Partition Tolerance
+####Structures used:
+B-trees
+MapReduce
+No Locking
+Validation
+Incremental Replication
+####curl command
+$ couchdb
+$ curl http://127.0.0.1:5984/curl http://127.0.0.1:5984/
+$ curl -X GET http://127.0.0.1:5984/_all_dbs
+$ curl -X PUT http://127.0.0.1:5984/tweets
+$ curl -X GET http://127.0.0.1:5984/_all_dbs
+$ curl -X PUT http://127.0.0.1:5984/delete_me
+Then checkout: http://127.0.0.1:5984/_utils/
+####Updating a page with couchdb
+When going through couchdb, checkout revision ID vs trueID when updating a page
+
