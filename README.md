@@ -217,3 +217,6 @@ Check out: https://github.com/cu-data-engineering-s15/syllabus/wiki/Topics  to f
 
 ## Lecture 11
 ### Twitter Data Collection Framework
+
+## Lecture 12
+### CouchDB by Ken
