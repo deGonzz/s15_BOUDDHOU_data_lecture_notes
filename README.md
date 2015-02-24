@@ -242,6 +242,7 @@ $ curl -X PUT http://127.0.0.1:5984/tweets
 $ curl -X GET http://127.0.0.1:5984/_all_dbs
 $ curl -X PUT http://127.0.0.1:5984/delete_me
 Then checkout: http://127.0.0.1:5984/_utils/
+Checkout couchdb actual online web client
 ####Updating a page with couchdb
 When going through couchdb, checkout revision ID vs trueID when updating a page
 
