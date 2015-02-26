@@ -246,3 +246,9 @@ Checkout couchdb actual online web client
 ####Updating a page with couchdb
 When going through couchdb, checkout revision ID vs trueID when updating a page
 
+## Lecture 14
+### MongoDB Presentation by Vikas 
+####Terminology
+Document
+Collection
+Independent databases
