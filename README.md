@@ -252,3 +252,6 @@ When going through couchdb, checkout revision ID vs trueID when updating a page
 Document
 Collection
 Independent databases
+
+## Lecture 15
+### Overview on importing tweets into MongoDB
