@@ -254,4 +254,7 @@ Collection
 Independent databases
 
 ## Lecture 15
-### Overview on importing tweets into MongoDB
+### Getting help on assignment 3
+
+## Lecture 16
+### Overview on importing tweets to MongoDB
