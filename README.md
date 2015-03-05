@@ -257,4 +257,4 @@ Independent databases
 ### Getting help on assignment 3
 
 ## Lecture 16
-### Overview on importing tweets to MongoDB
+### MongoDB Indexes by Ken
