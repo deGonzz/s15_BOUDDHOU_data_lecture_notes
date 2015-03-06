@@ -258,3 +258,10 @@ Independent databases
 
 ## Lecture 16
 ### MongoDB Indexes by Ken
+#### Checkout mongDB commands:
+##### > show dbs
+##### > use local
+##### > show collections
+##### > use data
+##### > db.currentOp()
+##### > db.tweets.getIndexes()
