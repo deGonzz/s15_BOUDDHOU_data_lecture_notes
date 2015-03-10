@@ -265,3 +265,10 @@ Independent databases
 ##### > use data
 ##### > db.currentOp()
 ##### > db.tweets.getIndexes()
+
+## Lecture 17
+### MongoDB, Part Two
+#### Compund Indexes
+#### Full-Text Indexes
+#### Geospatial Indexes
+#### MapReduce
