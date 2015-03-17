@@ -272,3 +272,9 @@ Independent databases
 #### Full-Text Indexes
 #### Geospatial Indexes
 #### MapReduce
+
+## Lecture 18
+### Presentation on Solr by Alex
+####Your very own search engine
+####Lucene
+####Inverted Index
