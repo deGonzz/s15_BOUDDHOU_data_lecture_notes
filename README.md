@@ -277,4 +277,7 @@ Independent databases
 ### Presentation on Solr by Alex
 ####Your very own search engine
 ####Lucene
+Solr is the implementation of Lucene
 ####Inverted Index
+Database searches
+Checkout http://cufcq.com/  which uses Solr
