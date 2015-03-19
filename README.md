@@ -281,3 +281,6 @@ Solr is the implementation of Lucene
 ####Inverted Index
 Database searches
 Checkout http://cufcq.com/  which uses Solr
+
+## Lecture 19
+### Presentation on Memcache
